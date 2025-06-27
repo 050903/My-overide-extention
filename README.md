@@ -1,8 +1,19 @@
-# UTH Course Registration Helper Extension
+![image](https://github.com/user-attachments/assets/af0ee061-7fd7-43ef-9739-b587a5a3f26e)![image](https://github.com/user-attachments/assets/fdfa2b33-f24b-4c13-bc02-b8d6000af830)# UTH Course Registration Helper Extension
 
 ## 📝 Purpose
 
 This Chrome extension assists students of Ho Chi Minh City University of Transport (UTH) in automating and enhancing the course registration process on the portal.ut.edu.vn website. It streamlines repetitive actions, provides quick information, and improves the overall registration experience.
+## Pics 
+
+![image](https://github.com/user-attachments/assets/975a36ab-49a8-4788-845b-f8c9023cf182)
+![image](https://github.com/user-attachments/assets/4eafdd56-113d-42cc-8213-f636d2157d52)
+![image](https://github.com/user-attachments/assets/2eb13065-5d50-4418-80a6-3c7901afde40)
+![image](https://github.com/user-attachments/assets/0f395a2b-669a-458d-8e3a-6be72b4c79f8)
+![image](https://github.com/user-attachments/assets/02bbfd17-11cf-4d59-a51e-dd79cf9766c7)
+![image](https://github.com/user-attachments/assets/23894624-fa52-4ead-bd44-727631db138a)
+![image](https://github.com/user-attachments/assets/d69eb681-4d5e-4fda-9a8f-0b916d2a8aaa)
+![image](https://github.com/user-attachments/assets/e0bd888d-8028-41da-b731-4c6a7e4f6b5d)
+![image](https://github.com/user-attachments/assets/ab6fec08-878e-4555-b2bc-2172c073f28e)
 
 ## 🚀 Main Features
 
