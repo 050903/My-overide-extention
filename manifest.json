@@ -1,0 +1,40 @@
+{
+  "manifest_version": 3,
+  "name": "Override Đăng ký học phần",
+  "description": "Ép mở đăng ký học phần và hỗ trợ auto click",
+  "version": "1.0",
+  "permissions": [
+    "notifications",
+    "alarms",
+    "storage",
+    "tabs",
+    "scripting",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "https://portal.ut.edu.vn/*"
+  ],
+  "action": {
+    "default_icon": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://portal.ut.edu.vn/coursesregistration*"
+      ],
+      "js": [
+        "override.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["inject.js"],
+      "matches": ["https://portal.ut.edu.vn/*"]
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
